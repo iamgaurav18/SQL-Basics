@@ -14,3 +14,4 @@
 ### The sequence we will be following :
 
 1. Creating and Dropping Database
+2. Create / Drop / Alter Table 
